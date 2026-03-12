@@ -1,0 +1,17 @@
+# Model weights (too large for GitHub)
+yolov5s.pt
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

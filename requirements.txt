@@ -1,0 +1,6 @@
+flask>=2.0
+opencv-python>=4.5
+torch>=1.9
+torchvision>=0.10
+requests>=2.26
+numpy>=1.21
